@@ -17,6 +17,7 @@ class CarViewController: UIViewController {
 
     //MARK - Propeties
     var car: Car!
+
     
     // MARK: - Super Methods
     override func viewDidLoad() {
